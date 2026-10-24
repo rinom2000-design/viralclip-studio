@@ -1,0 +1,4 @@
+ffmpeg
+aria2
+fonts-liberation
+libgl1
